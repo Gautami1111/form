@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #7fffd4
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #89cff0;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #f4c2c2;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #bcd4e6;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #d19fe8;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #7fffd4
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #89cff0;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #f4c2c2;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #bcd4e6;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #d19fe8;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #7fffd4
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #89cff0;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #f4c2c2;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #bcd4e6;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #d19fe8;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #7fffd4
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #89cff0;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #f4c2c2;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #bcd4e6;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #d19fe8;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #7fffd4
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #89cff0;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #f4c2c2;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #bcd4e6;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #d19fe8;
 	}
 }
 
@@ -1275,7 +1275,7 @@ audio {
 	font-family: 'Signika', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
-	color: #C4515C;
+	color: #654321;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: bold;
